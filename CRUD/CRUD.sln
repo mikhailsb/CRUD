@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD", "CRUD.csproj", "{07844E73-2C03-4D60-95D3-881BD7B8F455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_ADONet", "..\CRUD_ADONet\CRUD_ADONet.csproj", "{84E266C6-B69A-466D-AA9B-68E8B18C199A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07844E73-2C03-4D60-95D3-881BD7B8F455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07844E73-2C03-4D60-95D3-881BD7B8F455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07844E73-2C03-4D60-95D3-881BD7B8F455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07844E73-2C03-4D60-95D3-881BD7B8F455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E266C6-B69A-466D-AA9B-68E8B18C199A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E266C6-B69A-466D-AA9B-68E8B18C199A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E266C6-B69A-466D-AA9B-68E8B18C199A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E266C6-B69A-466D-AA9B-68E8B18C199A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BEF40D-77A6-4D74-AEEF-CD0D2DD03CE8}
+	EndGlobalSection
+EndGlobal

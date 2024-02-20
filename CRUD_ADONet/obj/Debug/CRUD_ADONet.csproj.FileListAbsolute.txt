@@ -1,0 +1,8 @@
+E:\Projetos\CRUD\CRUD_ADONet\obj\Debug\CRUD_ADONet.csproj.AssemblyReference.cache
+E:\Projetos\CRUD\CRUD_ADONet\obj\Debug\CRUD_ADONet.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\CRUD\CRUD_ADONet\obj\Debug\CRUD_ADONet.csproj.CoreCompileInputs.cache
+E:\Projetos\CRUD\CRUD_ADONet\bin\Debug\CRUD_ADONet.exe.config
+E:\Projetos\CRUD\CRUD_ADONet\bin\Debug\CRUD_ADONet.exe
+E:\Projetos\CRUD\CRUD_ADONet\bin\Debug\CRUD_ADONet.pdb
+E:\Projetos\CRUD\CRUD_ADONet\obj\Debug\CRUD_ADONet.exe
+E:\Projetos\CRUD\CRUD_ADONet\obj\Debug\CRUD_ADONet.pdb
